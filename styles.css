@@ -166,10 +166,15 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    font-family:  'Rubik Mono One', sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80%;
   }
   
   input[type=submit]:hover {
     background-color: #03045e;
+    color: #f3f3f3;
+    font-family:  'Rubik Mono One', sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80%;
   }
 
   form{
